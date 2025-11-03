@@ -1,6 +1,15 @@
 # Guitar Tuner
 
-A beautiful terminal-based guitar tuner application written in Rust. Tune your guitar by musical note with real-time frequency detection, visual tuning indicators, and customizable A4 reference frequency.
+<div align="center">
+   
+   A beautiful terminal-based guitar tuner application written in Rust. Tune your guitar by musical note with real-time frequency detection, visual tuning indicators, and customizable A4 reference frequency.
+
+
+   <img src="tuner.png" width="400"/>
+
+   A from scratch guitar tuner using RUST!
+
+</div>
 
 ## Features
 
