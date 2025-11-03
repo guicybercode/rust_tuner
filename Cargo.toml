@@ -1,0 +1,12 @@
+[package]
+name = "guitar-tuner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15"
+ratatui = "0.26"
+crossterm = "0.28"
+rustfft = "6.2"
+crossbeam-channel = "0.5"
+
