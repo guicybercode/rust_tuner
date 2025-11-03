@@ -21,8 +21,8 @@ A beautiful terminal-based guitar tuner application written in Rust. Tune your g
 ### Building from Source
 
 ```bash
-git clone <repository-url>
-cd rust_project_guitar
+git clone https://github.com/guicybercode/rust_tuner
+cd rust_tuner
 cargo build --release
 ```
 
