@@ -7,7 +7,7 @@
 
    <img src="tuner.png" width="400"/>
 
-   A from scratch guitar tuner using RUST!
+   A from scratch guitar tuner using RUST! 
 
 </div>
 
@@ -102,3 +102,4 @@ This project is open source and available for personal and educational use.
 
 (마태복음 4:4)
 
+i use arch btw
